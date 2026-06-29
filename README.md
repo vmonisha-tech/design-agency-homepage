@@ -1,14 +1,18 @@
-# Design Agency Homepage
+# 🎨 Design Agency Homepage
 
 A modern and responsive design agency landing page built using Next.js.
 
+## About
+
+This project is a responsive landing page for a fictional design agency. It showcases modern UI design principles, reusable React components, and responsive layouts built using Next.js.
+
 ## Live Demo
 
-(Add Vercel Link Here)
+https://design-agency-homepage-sepia.vercel.app/
 
 ## GitHub Repository
-n
-(Add Repository Link Here)
+
+https://github.com/vmonisha-tech/design-agency-homepage
 
 ## Tech Stack
 
@@ -41,7 +45,7 @@ src/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vmonisha-tech/design-agency-homepage.git
 ```
 
 Install dependencies
@@ -61,12 +65,11 @@ Open
 ```
 http://localhost:3000
 ```
-
 ## Assumptions
 
-- Static homepage only.
-- No backend functionality.
-- Images are locally stored.
+- This project focuses on the frontend implementation only.
+- No authentication or backend APIs were required.
+- Static assets are stored locally.
 
 ## Future Improvements
 
@@ -75,3 +78,7 @@ http://localhost:3000
 - Animations
 - Contact Form Backend
 - SEO Improvements
+
+## License
+
+This project was created for an internship assignment.
